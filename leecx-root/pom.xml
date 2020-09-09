@@ -41,7 +41,7 @@
 <!-- 		<fastdfs-client.version>1.25</fastdfs-client.version> -->
 		<freemarker.version>2.3.23</freemarker.version>
 		<quartz.version>2.2.3</quartz.version>
-		<hibernate.version>5.2.4.Final</hibernate.version>
+		<hibernate.version>5.3.6.Final</hibernate.version>
 		<validation.api.version>1.1.0.Final</validation.api.version>
 		<spring.rabbit.version>1.5.6.RELEASE</spring.rabbit.version>
 		<commons.httpclient.version>3.1</commons.httpclient.version>
